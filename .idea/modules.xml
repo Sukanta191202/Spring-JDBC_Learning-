@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1.Connecting Java to MySQL/1.Connecting Java to MySQL.iml" filepath="$PROJECT_DIR$/1.Connecting Java to MySQL/1.Connecting Java to MySQL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/1.Indian Programmer.iml" filepath="$PROJECT_DIR$/.idea/1.Indian Programmer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.Insert data into databse table-jdbc/2.Insert data into databse table-jdbc.iml" filepath="$PROJECT_DIR$/2.Insert data into databse table-jdbc/2.Insert data into databse table-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3. Deleting Data from a Database-JDBC/3. Deleting Data from a Database-JDBC.iml" filepath="$PROJECT_DIR$/3. Deleting Data from a Database-JDBC/3. Deleting Data from a Database-JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4.Updating Data in a Database/4.Updating Data in a Database.iml" filepath="$PROJECT_DIR$/4.Updating Data in a Database/4.Updating Data in a Database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5.Image Handling with JDBC - Insert images into Database using JDBC/5.Image Handling with JDBC - Insert images into Database using JDBC.iml" filepath="$PROJECT_DIR$/5.Image Handling with JDBC - Insert images into Database using JDBC/5.Image Handling with JDBC - Insert images into Database using JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6.Retrieve images from Database using JDBC/6.Retrieve images from Database using JDBC.iml" filepath="$PROJECT_DIR$/6.Retrieve images from Database using JDBC/6.Retrieve images from Database using JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Image jdbc check/Image jdbc check.iml" filepath="$PROJECT_DIR$/Image jdbc check/Image jdbc check.iml" />
+    </modules>
+  </component>
+</project>
